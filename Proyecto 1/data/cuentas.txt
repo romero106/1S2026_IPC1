@@ -1,0 +1,2 @@
+Estudiante;202504020;Patricio Romero;Ciencias y Sistemas;123
+Operador;OP1;Operador 1;N/A;op1
