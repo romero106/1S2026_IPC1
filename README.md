@@ -60,12 +60,12 @@ El repositorio se organiza en diferentes directorios de acuerdo con el propósit
 
 ## Actividades
 
-|  No.  | Actividad  | Descripción                 | Estado |
-| :---: | :--------- | :-------------------------- | :----: |
-|  01   | Práctica 1 | Descripción de la actividad |   ✅   |
-|  02   | Proyecto 1 | Descripción de la actividad |   ✅   |
-|  03   | Práctica 2 | Descripción de la actividad |   ✅   |
-|  04   | Proyecto 2 | Descripción de la actividad |   ✅   |
+|  No.  | Actividad                    | Descripción                 | Estado |
+| :---: | :--------------------------- | :-------------------------- | :----: |
+|  01   | [Práctica 1](/Practica%201/) | Descripción de la actividad |   ✅    |
+|  02   | [Proyecto 1](/Proyecto%201/) | Descripción de la actividad |   ✅    |
+|  03   | [Práctica 2](/Practica%202/) | Descripción de la actividad |   ✅    |
+|  04   | [Proyecto 2](/Proyecto%202/) | Descripción de la actividad |   ✅    |
 
 ### Estados
 
