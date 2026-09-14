@@ -4,12 +4,12 @@
 
 ### 🏫 Información del curso
 
-| Información     | Detalle                                  |
-| :-------------- | ---------------------------------------: |
-| **Período**     | Primer Semestre 2026                     |
-| **Sección**     | `E`                                      |
-| **Catedrático** | Neftali De Jesús Calderón Méndez         |
-| **Auxiliar**    | Eduardo Isaí Ajsivinac Xico              |
+|   Información   |             Detalle              |
+| :-------------: | :------------------------------: |
+|   **Período**   |       Primer Semestre 2026       |
+|   **Sección**   |               `E`                |
+| **Catedrático** | Neftali de Jesús Calderón Méndez |
+|  **Auxiliar**   |   Eduardo Isaí Ajsivinac Xico    |
 
 </div>
 
@@ -58,11 +58,14 @@ El repositorio se organiza en diferentes directorios de acuerdo con el propósit
 
 ---
 
-## Actividades y proyectos
+## Actividades
 
 |  No.  | Actividad  | Descripción                 | Estado |
 | :---: | :--------- | :-------------------------- | :----: |
-|  01   | Práctica 1 | Descripción de la actividad |   ⏳   |
+|  01   | Práctica 1 | Descripción de la actividad |   ✅   |
+|  02   | Proyecto 1 | Descripción de la actividad |   ✅   |
+|  03   | Práctica 2 | Descripción de la actividad |   ✅   |
+|  04   | Proyecto 2 | Descripción de la actividad |   ✅   |
 
 ### Estados
 
