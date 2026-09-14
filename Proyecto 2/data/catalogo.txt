@@ -1,0 +1,8 @@
+G009|The Witcher 3: Wild Hunt|RPG|299.99|PC|9|Mundo abierto con decisiones morales y misiones secundarias profundas.
+G010|Red Dead Redemption 2|Accion|499.99|PlayStation|10|Western cinematografico sobre lealtad y el fin de una era.
+G011|God of War (2018)|Accion|299.99|PlayStation|9|Kratos y su hijo en una historia emotiva sobre la paternidad.
+G012|The Last of Us Part II|Accion|399.99|PlayStation|8|Supervivencia cruda con narrativa intensa y emocional.
+G013|Disco Elysium|RPG|299.99|PC|10|Detective RPG donde los dialogos son los combates principales.
+G014|Elden Ring|RPG|499.99|PC|10|Mundo abierto desafiante con historia fragmentada y profunda.
+G015|Detroit: Become Human|Aventura|299.99|PlayStation|9|Tus decisiones cambian el destino de tres androides.
+G016|Life is Strange|Aventura|149.99|PC|8|Historia emotiva sobre amistad y viajes en el tiempo.

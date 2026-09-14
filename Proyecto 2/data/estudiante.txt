@@ -1,0 +1,1 @@
+Patricio Manuel Romero Castellanos|202504020|3058919280301@ingenieria.usac.edu.gt|E|Primer semestre 2026|GameZone Pro es una plataforma de escritorio en Java Swing que integra tienda, album, torneos, recompensas y reportes HTML.

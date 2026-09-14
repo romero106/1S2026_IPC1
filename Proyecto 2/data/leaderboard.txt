@@ -1,0 +1,6 @@
+Jeffrey|3200
+Luis|2450
+Fernando|1800
+Galicia|1500
+Diego|900
+Jugador Actual|20
