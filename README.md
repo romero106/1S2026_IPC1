@@ -4,12 +4,12 @@
 
 ### 🏫 Información del curso
 
-|   Información   |             Detalle              |
-| :-------------: | :------------------------------: |
-|   **Período**   |       Primer Semestre 2026       |
-|   **Sección**   |               `E`                |
+| Ítem            |                          Detalle |
+| :-------------- | -------------------------------: |
+| **Período**     |             Primer Semestre 2026 |
+| **Sección**     |                                E |
 | **Catedrático** | Neftali de Jesús Calderón Méndez |
-|  **Auxiliar**   |   Eduardo Isaí Ajsivinac Xico    |
+| **Auxiliar**    |      Eduardo Isaí Ajsivinac Xico |
 
 </div>
 
@@ -17,22 +17,13 @@
 
 ## Acerca de este repositorio
 
-Este repositorio contiene actividades, prácticas y proyectos desarrollados durante el curso **Introducción a la Programación y Computación 1**.
+Este repositorio contiene las actividades desarrolladas durante el curso **Introducción a la Programación y Computación 1**.
 
-Su propósito es reunir y organizar de forma estructurada los trabajos realizados durante el semestre, permitiendo localizar fácilmente cada actividad, práctica o proyecto.
+Su propósito es reunir y organizar de forma estructurada las prácticas y proyectos realizados durante el semestre, facilitando el acceso a cada actividad y a los recursos utilizados para su desarrollo.
 
 <!---
 
-## 🎯 Objetivos del curso
-
-Durante el desarrollo del curso se busca adquirir y fortalecer las siguientes habilidades:
-
-- Objetivo 1.
-- Objetivo 2.
-- Objetivo 3.
-- Objetivo 4.
-
---->
+---
 
 ## Estructura del repositorio
 
@@ -43,52 +34,35 @@ El repositorio se organiza en diferentes directorios de acuerdo con el propósit
 │
 ├── 📁 Práctica 1/
 │   └── ...
-│
 ├── 📁 Práctica 2/
 │   └── ...
-│
 ├── 📁 Proyecto 1/
 │   └── ...
-│
 ├── 📁 Proyecto 2/
 │   └── ...
 │
 └── 📄 README.md
 ```
 
+--->
+
 ---
 
 ## Actividades
 
-|  No.  | Actividad                    | Descripción                 | Estado |
-| :---: | :--------------------------- | :-------------------------- | :----: |
-|  01   | [Práctica 1](/Practica%201/) | Descripción de la actividad |   ✅    |
-|  02   | [Proyecto 1](/Proyecto%201/) | Descripción de la actividad |   ✅    |
-|  03   | [Práctica 2](/Practica%202/) | Descripción de la actividad |   ✅    |
-|  04   | [Proyecto 2](/Proyecto%202/) | Descripción de la actividad |   ✅    |
+|  No.  | Tipo                       | Actividad                                                           | Estado |
+| :---: | :------------------------- | :------------------------------------------------------------------ | :----: |
+|  01   | [Práctica 1](/Practica-1/) | PACMAN en consola                                                   |   ✅    |
+|  02   | [Proyecto 1](/Proyecto-1/) | BiblioSystem (Sistema de inventario para biblioteca universitaria)  |   ✅    |
+|  03   | [Práctica 2](/Practica-2/) | Visualizador de Algoritmos de Ordenamiento                          |   ✅    |
+|  04   | [Proyecto 2](/Proyecto-2/) | GameZone Pro (una plataforma de entretenimiento digital denominada) |   ✅    |
 
 ### Estados
 
-* ✅ Terminado
-* 🚧 En desarrollo
-* ⏳ Pendiente
-
----
-
-## Herramientas y tecnologías
-
-Para el desarrollo de los distintos trabajos del curso se utilizarán las siguientes herramientas y tecnologías:
-
-| Categoría                              | Herramientas / Tecnologías                          | Aplicación                                                                                                                          |
-| :------------------------------------- | :-------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 **Lenguaje y plataforma**            | **Java, JDK, JRE, JVM**                             | Java es el lenguaje oficial del curso y se estudia junto con los componentes fundamentales de su entorno de ejecución y desarrollo. |
-| 🧩 **Programación orientada a objetos** | **POO en Java**                                     | Desarrollo con clases, objetos, atributos, métodos, constructores, encapsulamiento, herencia, polimorfismo y abstracción.           |
-| 🧱 **POO avanzada**                     | **Clases abstractas, interfaces, `static`, `this`** | Uso de abstracciones y características avanzadas del modelo orientado a objetos de Java.                                            |
-| 🖥️ **Interfaces gráficas**              | **Java Swing, AWT**                                 | Creación de aplicaciones gráficas de escritorio mediante componentes, ventanas, layouts y manejo de eventos.                        |
-| 🏗️ **Patrones de diseño**               | **MVC (Model–View–Controller)**                     | Organización de aplicaciones separando modelo, vista y controlador, aplicado especialmente al desarrollo con Swing.                 |
-| 🧵 **Concurrencia**                     | **Threads / Multithreading en Java**                | Creación de hilos, manejo de su ciclo de vida y desarrollo de aplicaciones con múltiples hilos de ejecución.                        |
-| 💾 **Persistencia de datos**            | **Archivos de texto y serialización de objetos**    | Almacenamiento y recuperación de información mediante archivos y persistencia de objetos Java.                                      |
-| 📐 **Modelado de software**             | **UML, diagramas de clases**                        | Representación de estructuras de software mediante clases, visibilidad y relaciones entre objetos.                                  |
+- ⏳ Pendiente
+- 🚧 En desarrollo
+- ✅ Completada
+- ❌ No realizada
 
 ---
 
